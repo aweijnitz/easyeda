@@ -9,30 +9,30 @@ Source: https://jlcpcb.com/parts
 
 Footprint 0603.
 
-    1K      - 0603WAF1001T5E
-    1.1K    - 0603WAF1101T5E
-    1.2K    - 0603WAF1201T5E
-    1.3K    - 0603WAF1301T5E (extended part)
-    1.5K    - 0603WAF1501T5E
-    1.6K    - 0603WAF1601T5E (extended part)
-    1.8K    - 0603WAF1801T5E
-    2.0K    - 0603WAF2001T5E
-    2.2K    - 0603WAF2201T5E
-    2.4K    - 0603WAF2401T5E
-    2.7K    - 0603WAF2701T5E
-    3.0K    - 0603WAF3001T5E
-    3.3K    - 0603WAF3301T5E
-    3.6K    - 0603WAF3601T5E
-    3.9K    - 0603WAF3901T5E
-    4.3K    - 0603WAF4301T5E
-    4.7K    - 0603WAF4701T5E
-    5.1K    - 0603WAF5101T5E
-    5.6K    - 0603WAF5601T5E
-    6.2K    - 0603WAF6201T5E
-    6.8K    - 0603WAF6801T5E
-    7.5K    - 0603WAF7501T5E
-    8.2K    - 0603WAF8201T5E
-    9.1K    - 0603WAF9101T5E
+    1.0     - 0603WAF100KT5E,       10     - 0603WAJ0100T5E,        100     - 0603WAJ0101T5E,       1K      - 0603WAF1001T5E,       10K     - 0603WAF1002T5E,       100K    - 0603WAF1003T5E,       1M      - 0603WAF1004T5E
+                                                                                                    1.1K    - 0603WAF1101T5E,       
+                                                                                                    1.2K    - 0603WAF1201T5E
+                                                                                                    1.3K    - 0603WAF1301T5E
+                                                                                                    1.5K    - 0603WAF1501T5E
+                                                                                                    1.6K    - 0603WAF1601T5E
+                                                                                                    1.8K    - 0603WAF1801T5E
+    2.0     - 0603WAF200KT5E,       20     - 0603WAJ0200T5E,        200     - 0603WAJ0201T5E,       2.0K    - 0603WAF2001T5E,       20K     - 0603WAF2002T5E,       2M      - 0603WAF2004T5E
+    2.2     - 0603WAF220KT5E,       22     - 0603WAJ0220T5E,        220     - 0603WAJ0221T5E,       2.2K    - 0603WAF2201T5E
+                                                                                                    2.4K    - 0603WAF2401T5E
+                                                                                                    2.7K    - 0603WAF2701T5E
+                                                                                                    3.0K    - 0603WAF3001T5E
+    3.3     - 0603WAF330KT5E,       33     - 0603WAJ0330T5E,        330     - 0603WAJ0331T5E,       3.3K    - 0603WAF3301T5E
+                                                                                                    3.6K    - 0603WAF3601T5E
+                                                                                                    3.9K    - 0603WAF3901T5E
+                                                                                                    4.3K    - 0603WAF4301T5E
+    4.7     - 0603WAF470KT5E,       47     - 0603WAJ0470T5E,        470     - 0603WAJ0471T5E,       4.7K    - 0603WAF4701T5E,       47K     - 0603WAF4702T5E,       470K    - 0603WAF4703T5E
+                                                                                                    5.1K    - 0603WAF5101T5E
+    5.6     - 0603WAF560KT5E,       56     - 0603WAJ0560T5E,        560     - 0603WAJ0561T5E,       5.6K    - 0603WAF5601T5E
+                                                                                                    6.2K    - 0603WAF6201T5E
+    6.8     - 0603WAF680KT5E,       68     - 0603WAJ0680T5E,        680     - 0603WAJ0681T5E,       6.8K    - 0603WAF6801T5E
+                                                                                                    7.5K    - 0603WAF7501T5E
+    8.2     - 0603WAF820KT5E,       82     - 0603WAJ0820T5E,        820     - 0603WAJ0821T5E,       8.2K    - 0603WAF8201T5E
+                                                                                                    9.1K    - 0603WAF9101T5E
 
 
 
