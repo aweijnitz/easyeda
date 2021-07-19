@@ -35,7 +35,11 @@ Footprint 0603.
                                                                                                     9.1K    - 0603WAF9101T5E
 
 
+## Caps
 
+    1nF (5%)    - CL10C102JB8NNNC
+    10nF (5%)   - CC0603JRX7R9BB103
+    100nF (5%)  - CL10B104JB8NNNC
 
 
 
