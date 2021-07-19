@@ -40,7 +40,57 @@ Footprint 0603.
     1nF (5%)    - CL10C102JB8NNNC
     10nF (5%)   - CC0603JRX7R9BB103
     100nF (5%)  - CL10B104JB8NNNC
+    1uF (10%)   - CL10A105KB8NNNC
+    10uF        - CL10A106KP8NNNC
+    100uF       - CL31A107MQHNNNE (Multilayer ceramic)
+    100uF       - TAJB107K006RNJ (Tantalum, polar)
+    100uF       - VE-101M1CTR-0605 (Aluminum Electrolytic)
+    
+    47uF        - CL31A476MPHNNNE (Ceramic)
+    470uF       - RVT1V471M1010 (Aluminum Electrolytic)
+    
+    
+## Op Amps
 
 
+    LM358 - LM358DR2G (Dual)
+    
+    TL072 - TL072CDT (Dual)
+    
+    LM386 - C23573 (Audio amp. 325mW)
+    LM386 - C87306 (Audio amp. 700mW)
+    
+    
+## Diodes
+
+__Schottky__
+    
+    40V 1A 600mV @ 1A Schottky Barrier Diode - B5819W
+    
+__General Purpose__
+
+    1N4007 (1kV 1A 1.1V @ 1A) - C181127
+    
+    
+## Connector/Headers
+
+Aassembly type: Hand-soldering 
+
+
+__Pin headers__
+
+    2-pin male  - C124375  (Pin Header 2 1 right-angle，180degrees 2.54mm Through Hole,P=2.54mm Pin Header & Female Header RoHS)
+    4-pin male  - C124378  (Pin Header 4 1 right-angle，180degrees 2.54mm Through Hole,P=2.54mm Pin Header & Female Header RoHS)
+    
+
+__"Short" pins__
+
+    2-pin male  - C158012 (XH Header Male Pin 0.098"(2.50mm) 2 Through Hole,P=2.5mm Wire To Board)
+    3-pin male  - C2316   (XH Header Male Pin 0.098"(2.50mm) 3 Through Hole Wire To Board / Wire To Wire Connector)
+    
+__"Long" pins__
+
+    2-pin male  - C169024  MX2.54 Header Male Pin 0.100"(2.54mm) 2 Through Hole,P=2.54mm Wire To Board / Wire To Wire Connector RoHS
+    3-pin male  - C169026  MX2.54 Header Male Pin 0.100"(2.54mm) 3 Through Hole,P=2.54mm Wire To Board / Wire To Wire Connector RoHS
 
 
