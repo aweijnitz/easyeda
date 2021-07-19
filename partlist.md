@@ -53,9 +53,9 @@ Footprint 0603.
 ## Op Amps
 
 
-    LM358 - LM358DR2G (Dual)
+    LM358 - C7950 (Dual)
     
-    TL072 - TL072CDT (Dual)
+    TL072 - C6961 (Dual)
     
     LM386 - C23573 (Audio amp. 325mW)
     LM386 - C87306 (Audio amp. 700mW)
