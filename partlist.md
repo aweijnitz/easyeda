@@ -83,6 +83,8 @@ __Pin headers__
     2-pin male  - C124375  (Pin Header 2 1 right-angle，180degrees 2.54mm Through Hole,P=2.54mm Pin Header & Female Header RoHS)
     4-pin male  - C124378  (Pin Header 4 1 right-angle，180degrees 2.54mm Through Hole,P=2.54mm Pin Header & Female Header RoHS)
     
+    3-pin female - C146690 (P=2.54mm Pin Header & Female Header ROHS)
+    
 
 __"Short" pins__
 
