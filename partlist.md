@@ -70,7 +70,8 @@ __Schottky__
     
 __General Purpose__
 
-    1N4007 (1kV 1A 1.1V @ 1A) - C181127
+    1N4007 (1kV 1A 1.1V @ 1A)            - C181127 (extended)
+    SM4007PL (Max 50V reverse, Vf = 1.1) - C64898 (basic)
     
     
 ## Connector/Headers
