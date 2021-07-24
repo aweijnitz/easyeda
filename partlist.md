@@ -38,7 +38,8 @@ Footprint 0603.
 ## Caps
 
     1nF (5%)    - CL10C102JB8NNNC
-    10nF (5%)   - CC0603JRX7R9BB103
+    10nF (5%)   - CC0603JRX7R9BB103 (extended)
+    10nF (10%)  - C57112 (basic)
     100nF (5%)  - CL10B104JB8NNNC (extended)
     100nF (10%) - C14663 (basic)
     1uF (10%)   - CL10A105KB8NNNC
