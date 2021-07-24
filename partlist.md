@@ -39,7 +39,8 @@ Footprint 0603.
 
     1nF (5%)    - CL10C102JB8NNNC
     10nF (5%)   - CC0603JRX7R9BB103
-    100nF (5%)  - CL10B104JB8NNNC
+    100nF (5%)  - CL10B104JB8NNNC (extended)
+    100nF (10%) - C14663 (basic)
     1uF (10%)   - CL10A105KB8NNNC
     10uF        - CL10A106KP8NNNC
     100uF       - CL31A107MQHNNNE (Multilayer ceramic)
