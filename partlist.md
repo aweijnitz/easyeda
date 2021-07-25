@@ -25,7 +25,7 @@ Footprint 0603.
                                                                                                     3.6K    - 0603WAF3601T5E
                                                                                                     3.9K    - 0603WAF3901T5E
                                                                                                     4.3K    - 0603WAF4301T5E
-    4.7     - 0603WAF470KT5E,       47     - 0603WAJ0470T5E,        470     - 0603WAJ0471T5E,       4.7K    - 0603WAF4701T5E,       47K     - 0603WAF4702T5E,       470K    - 0603WAF4703T5E
+    4.7     - 0603WAF470KT5E,       47     - 0603WAJ0470T5E,        470     - 0603WAF4700T5E,       4.7K    - 0603WAF4701T5E,       47K     - 0603WAF4702T5E,       470K    - 0603WAF4703T5E
                                                                                                     5.1K    - 0603WAF5101T5E
     5.6     - 0603WAF560KT5E,       56     - 0603WAJ0560T5E,        560     - 0603WAJ0561T5E,       5.6K    - 0603WAF5601T5E
                                                                                                     6.2K    - 0603WAF6201T5E
