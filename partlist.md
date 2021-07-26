@@ -71,8 +71,9 @@ Footprint 0603.
 
 __Schottky__
     
-    40V 1A 550mV @ 1A SMA(DO-214AC) Schottky Barrier Diodes (SBD) - C2480 (basic part)
-    40V 1A 600mV @ 1A Schottky Barrier Diode - B5819W
+    40V 1A 550mV @ 1A SMA(DO-214AC) Schottky Barrier Diodes (SBD) - C2480 (basic part, Drops ca. 0.55V forward.)
+    100V 2A 850mV @ 2A SMA(DO-214AC) Schottky Barrier Diodes (SBD) - C14996 (basic part. higher voltage rating, but 0.85 forward voltage drop)
+    40V 1A 600mV @ 1A Schottky Barrier Diode - C8598 (basic part, 0.6V forward volatge drop)
     
     
 __General Purpose__
