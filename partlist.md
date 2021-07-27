@@ -108,4 +108,7 @@ __"Long" pins__
     2-pin male  - C169024  MX2.54 Header Male Pin 0.100"(2.54mm) 2 Through Hole,P=2.54mm Wire To Board / Wire To Wire Connector RoHS
     3-pin male  - C169026  MX2.54 Header Male Pin 0.100"(2.54mm) 3 Through Hole,P=2.54mm Wire To Board / Wire To Wire Connector RoHS
 
+__Modular Power Bus__
+
+    Through Hole,P=2.54mm IDC Connectors ROHS - C492443 
 
