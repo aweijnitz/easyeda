@@ -85,6 +85,12 @@ __LED__
 
     LED_0603 Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED)  - C2286 
     
+## Potentimeters/Trimmers
+
+Not basic parts. I use them for the holes only.
+
+    10k Through hole trimmer. BOURNS style. Three legs in a line. - C118954
+
 ## Connector/Headers
 
 Aassembly type: Hand-soldering 
