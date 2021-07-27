@@ -112,3 +112,7 @@ __Modular Power Bus__
 
     Through Hole,P=2.54mm IDC Connectors ROHS - C492443 
 
+__Jacks__
+
+    3.5mm female mono jack (modular synth) through hole - C3791
+
