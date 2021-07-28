@@ -80,7 +80,13 @@ __General Purpose__
 
     1N4007 (1kV 1A 1.1V @ 1A)            - C181127 (extended)
     SM4007PL (Max 50V reverse, Vf = 1.1) - C64898 (basic)
-    
+
+__Voltage Regulators__
+
+    5V out. Max in 35V. Max output current to 0.5 A - C58069
+    5V out. Max in 12V, Max out 1A - C6187
+
+
 __LED__
 
     LED_0603 Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED)  - C2286 
