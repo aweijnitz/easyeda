@@ -38,10 +38,11 @@ Footprint 0603.
 ## Caps
 
     1nF (5%)    - CL10C102JB8NNNC
+    1nF         - C1588 (basic, 0603), C1523 (basic, 0402), 
     10nF (5%)   - CC0603JRX7R9BB103 (extended)
-    10nF (10%)  - C57112 (basic)
+    10nF (10%?)  - C57112 (basic)
     100nF (5%)  - CL10B104JB8NNNC (extended)
-    100nF (10%) - C14663 (basic)
+    100nF       - C14663 (basic)
     1uF (10%)   - CL10A105KB8NNNC
     10uF        - CL10A106KP8NNNC
     100uF       - CL31A107MQHNNNE (Multilayer ceramic)
