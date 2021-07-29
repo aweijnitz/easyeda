@@ -66,7 +66,20 @@ Footprint 0603.
     LM386 - C23573 (Audio amp. 325mW)
     LM386 - C87306 (Audio amp. 700mW)
     
+
+## Transistors
+
+Basic parts replacements for BC457 and 2N3904
+
+    NPN SOT-23(SOT-23-3) Bipolar Transistors - C2146
+    NPN SOT-23(SOT-23-3) Bipolar Transistors - C6749
+    PNP SOT-89(SOT-89-3) Bipolar Transistors - C24278
     
+More power (medium amp and switching)
+
+    NPN SOT-23(SOT-23-3) Bipolar Transistors - C2145
+    
+
 ## Diodes
 
 __Schottky__
