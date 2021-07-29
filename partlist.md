@@ -69,7 +69,7 @@ Footprint 0603.
 
 ## Transistors
 
-Basic parts replacements for BC457 and 2N3904
+Basic parts replacements for BC547 and 2N3904
 
     NPN SOT-23(SOT-23-3) Bipolar Transistors - C2146
     NPN SOT-23(SOT-23-3) Bipolar Transistors - C6749
