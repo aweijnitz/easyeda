@@ -99,6 +99,10 @@ __Voltage Regulators__
     5V out. Max in 35V. Max output current to 0.5 A - C58069
     5V out. Max in 12V, Max out 1A - C6187
 
+__Various Chips__
+
+    555 Timer - C7593 (basic part)
+
 
 __LED__
 
