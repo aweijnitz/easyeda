@@ -152,7 +152,7 @@ __Jacks__
     
 __Swicthes__
 
-    DTDP on-on - C225663
+    DTDP on-on - C225663.   2 -> 1,3, 5 -> 4,6 (IN: 2,5, OUT, CH1: 1,4 CH2: 3,6)
     
   
 
