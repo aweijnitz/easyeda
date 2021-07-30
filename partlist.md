@@ -149,4 +149,10 @@ __Modular Synth Power Bus__
 __Jacks__
 
     3.5mm female mono jack (modular synth) through hole - C3791
+    
+__Swicthes__
+
+    DTDP on-on - C225663
+    
+  
 
