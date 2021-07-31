@@ -154,6 +154,7 @@ __Swicthes__
 
     DPDT on-on - C225663.   2 -> 1,3, 5 -> 4,6 (IN: 2,5, OUT, CH1: 1,4 CH2: 3,6)
     ON-ON SPDT, 3-pin - C306257
+    DPDT, on-off-on, 6-pin - C273347.  POS1 (on): 2-3, 5-6, PO2 (off) none, POS2 (on): 2-1, 5-4 [Datasheet](https://datasheet.lcsc.com/lcsc/1912111437_E-Switch-100AWDP1T2B4M2QE_C273347.pdf)
     
   
 
