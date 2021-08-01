@@ -45,8 +45,10 @@ Footprint 0603.
     100nF       - C14663 (basic)
     1uF (10%)   - CL10A105KB8NNNC
     10uF        - CL10A106KP8NNNC
+    10uF        - C7171 (BASIC PART! Tantalum, polar, SMT)
     100uF       - CL31A107MQHNNNE (Multilayer ceramic)
     100uF       - TAJB107K006RNJ (Tantalum, polar)
+    100uF       - C16133 (BASIC PART! Tantalum, polar, SMT)
     100uF       - VE-101M1CTR-0605 (Aluminum Electrolytic)
     
     2.2nF       - C1604 (Basic)
