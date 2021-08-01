@@ -54,6 +54,7 @@ Footprint 0603.
     4.7nF       - C53987
     47uF        - CL31A476MPHNNNE (Ceramic)
     47uF        - C134775 (Aluminum Electrolytic, SMD)
+    47uF        - C473197 (Aluminum Electrolytic, Through hole/leaded)
     470uF       - RVT1V471M1010 (Aluminum Electrolytic)
     
     
