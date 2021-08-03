@@ -63,7 +63,8 @@ Footprint 0603.
 ## Op Amps
 
 
-    LM358 (single supply op amp) - C7950 (Dual)
+    LM358 (single supply op amp) - C7950 (Dual, basic part), Unit price $0.1137
+    LM342 (single supply op amp) - C71035 (Quad, basic part), Unit price $0.1407
     
     TL072 (classic, FET input) - C6961 (Dual). Unit price JLCPCP $0.4364
     
