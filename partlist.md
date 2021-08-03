@@ -63,9 +63,11 @@ Footprint 0603.
 ## Op Amps
 
 
-    LM358 - C7950 (Dual)
+    LM358 (single supply op amp) - C7950 (Dual)
     
-    TL072 - C6961 (Dual)
+    TL072 (classic, FET input) - C6961 (Dual). Unit price JLCPCP $0.4364
+    
+    NE5532 (low noise, for audio) - C7426 (dual. basic part), unit price JLCPCB $0.3373
     
     LM386 - C23573 (Audio amp. 325mW)
     LM386 - C87306 (Audio amp. 700mW)
