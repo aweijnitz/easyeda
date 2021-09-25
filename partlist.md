@@ -165,4 +165,15 @@ __Swicthes__
    [Datasheet C273347](https://datasheet.lcsc.com/lcsc/1912111437_E-Switch-100AWDP1T2B4M2QE_C273347.pdf)
     
   
+# Reichelt.de useful parts
+
+[Power connector headers ("Stiftleiste") 2x5 pol pin headers, 2.54mm raster](https://www.reichelt.de/stiftleisten-c7434.html?ACTION=2&GROUPID=7434&SEARCH=%2A&START=0&OFFSET=16&SHOW=1&r=1&SID=95aaa7c9db2b0b9241c12199dac194e64d82a4c035b84dc390d82)
+
+[Jumper with grip, 2.54mm](https://www.reichelt.de/kurzschlussbruecke-schw-m-grifflasche-jumper-2-54gl-sw-p9019.html?&trstct=pol_10&nbc=1)
+
+
+
+
+
+
 
