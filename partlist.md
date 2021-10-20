@@ -171,7 +171,10 @@ __Swicthes__
 
 [Jumper with grip, 2.54mm](https://www.reichelt.de/kurzschlussbruecke-schw-m-grifflasche-jumper-2-54gl-sw-p9019.html?&trstct=pol_10&nbc=1)
 
+[Bourns trimmer 10k, 25 turns](https://www.reichelt.de/praezisionspotentiometer-25-gaenge-stehend-10-kohm-64w-10k-p2699.html?&trstct=pol_4&nbc=1)
 
+[Category for knobs](https://www.reichelt.de/zubehoer-fuer-potentiometer-c3139.html?&nbc=1)
+[Category for faders](https://www.reichelt.de/schiebepotis-c3713.html?&nbc=1)
 
 
 
