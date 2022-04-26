@@ -9,7 +9,7 @@ Source: https://jlcpcb.com/parts
 
 Footprint 0603.
 
-    1.0     - 0603WAF100KT5E,       10     - 0603WAJ0100T5E,        100     - 0603WAF1000T5E,       1K      - 0603WAF1001T5E,       10K     - 0603WAF1002T5E,       100K    - 0603WAF1003T5E,       1M      - 0603WAF1004T5E
+    1.0     - 0603WAF100KT5E,       10     - 0603WAF100JT5E,        100     - 0603WAF1000T5E,       1K      - 0603WAF1001T5E,       10K     - 0603WAF1002T5E,       100K    - 0603WAF1003T5E,       1M      - 0603WAF1004T5E
                                                                                                     1.1K    - 0603WAF1101T5E,       
                                                                                                     1.2K    - 0603WAF1201T5E
                                                                                                     1.3K    - 0603WAF1301T5E
