@@ -175,9 +175,11 @@ __Swicthes__
 [Bourns trimmer 10k, 25 turns](https://www.reichelt.de/praezisionspotentiometer-25-gaenge-stehend-10-kohm-64w-10k-p2699.html?&trstct=pol_4&nbc=1)
 
 [Category for knobs](https://www.reichelt.de/zubehoer-fuer-potentiometer-c3139.html?&nbc=1)
+
 [Category for faders](https://www.reichelt.de/schiebepotis-c3713.html?&nbc=1)
+
 [Vertikal ALPS pot. PartNr: RK09K113-LIN10K](https://www.reichelt.de/index.html?ACTION=446&LA=2&nbc=1&q=rk09k113-lin10k)
-[Jumper "JUMPER 2,54GL SW"](https://www.reichelt.de/kurzschlussbruecke-schw-m-grifflasche-jumper-2-54gl-sw-p9019.html?&trstct=pos_1&nbc=1)
+
 
 
 
