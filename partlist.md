@@ -171,6 +171,8 @@ __Swicthes__
 
 [Power connector headers ("Stiftleiste") 2x5 pol pin headers, 2.54mm raster](https://www.reichelt.de/stiftleisten-c7434.html?ACTION=2&GROUPID=7434&SEARCH=%2A&START=0&OFFSET=16&SHOW=1&r=1&SID=95aaa7c9db2b0b9241c12199dac194e64d82a4c035b84dc390d82)
 
+[10 pin female pin header "Buchsleiste" Buchsenleisten 2,54 mm, 1X10, gerade](https://www.reichelt.de/buchsenleisten-2-54-mm-1x10-gerade-mpe-094-1-010-p119918.html?&trstct=pol_0&nbc=1)
+
 [Jumper with grip, 2.54mm](https://www.reichelt.de/kurzschlussbruecke-schw-m-grifflasche-jumper-2-54gl-sw-p9019.html?&trstct=pol_10&nbc=1)
 
 [Bourns trimmer 10k, 25 turns](https://www.reichelt.de/praezisionspotentiometer-25-gaenge-stehend-10-kohm-64w-10k-p2699.html?&trstct=pol_4&nbc=1)
