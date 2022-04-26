@@ -120,6 +120,7 @@ __LED__
 Not basic parts. I use them for the holes only.
 
     10k Through hole trimmer. BOURNS style. Three legs in a line. - C118954
+    10k 
 
 ## Connector/Headers
 
@@ -175,7 +176,8 @@ __Swicthes__
 
 [Category for knobs](https://www.reichelt.de/zubehoer-fuer-potentiometer-c3139.html?&nbc=1)
 [Category for faders](https://www.reichelt.de/schiebepotis-c3713.html?&nbc=1)
-
+[Vertikal ALPS pot. PartNr: RK09K113-LIN10K](https://www.reichelt.de/index.html?ACTION=446&LA=2&nbc=1&q=rk09k113-lin10k)
+[Jumper "JUMPER 2,54GL SW"](https://www.reichelt.de/kurzschlussbruecke-schw-m-grifflasche-jumper-2-54gl-sw-p9019.html?&trstct=pos_1&nbc=1)
 
 
 
