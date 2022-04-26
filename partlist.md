@@ -151,7 +151,8 @@ __Chip Sockets__
 
 __Modular Synth Power Bus__
 
-    Through Hole,P=2.54mm IDC Connectors ROHS - C492443 
+    10 Pin 10 2 0.100"(2.54MM) - HEADER THROUGH HOLE - C694037
+    16 pin Through Hole,P=2.54mm IDC Connectors ROHS - C492443 
 
 __Jacks__
 
