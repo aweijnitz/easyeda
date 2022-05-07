@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20.08mm"
+   height="128.5mm"
+   viewBox="0 0 20.08 128.5"
+   version="1.1"
+   id="svg1079"
+   sodipodi:docname="4hp_front-panel-20.08x128.5mm-oval-holes.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1081"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="-74.938727"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1312"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1076" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="EuroPanel"
+       id="g1401">
+      <rect
+         style="fill:#e6e6e6;stroke:none;stroke-width:0mm"
+         height="128.5"
+         width="20.08"
+         x="0"
+         y="0"
+         rx="0"
+         ry="0"
+         id="rect1379" />
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0mm"
+         height="3.2"
+         width="5.5"
+         x="4.75"
+         y="123.9"
+         rx="1.6"
+         ry="0"
+         id="rect1381" />
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0mm"
+         height="3.2"
+         width="5.5"
+         x="4.75"
+         y="1.4"
+         rx="1.6"
+         ry="0"
+         id="rect1383" />
+      <path
+         style="fill:none;stroke:#f6921e;stroke-width:0.05mm"
+         d="m 5.55,125.5 h 3.9"
+         id="path1385" />
+      <path
+         style="fill:none;stroke:#f6921e;stroke-width:0.05mm"
+         d="m 6.35,126.3 v -1.6"
+         id="path1387" />
+      <path
+         style="fill:none;stroke:#f6921e;stroke-width:0.05mm"
+         d="m 7.5,126.3 v -1.6"
+         id="path1389" />
+      <path
+         style="fill:none;stroke:#f6921e;stroke-width:0.05mm"
+         d="m 8.65,126.3 v -1.6"
+         id="path1391" />
+      <path
+         style="fill:none;stroke:#f6921e;stroke-width:0.05mm"
+         d="m 5.55,3 h 3.9"
+         id="path1393" />
+      <path
+         style="fill:none;stroke:#f6921e;stroke-width:0.05mm"
+         d="M 6.35,3.8 V 2.2"
+         id="path1395" />
+      <path
+         style="fill:none;stroke:#f6921e;stroke-width:0.05mm"
+         d="M 7.5,3.8 V 2.2"
+         id="path1397" />
+      <path
+         style="fill:none;stroke:#f6921e;stroke-width:0.05mm"
+         d="M 8.65,3.8 V 2.2"
+         id="path1399" />
+    </g>
+  </g>
+</svg>
