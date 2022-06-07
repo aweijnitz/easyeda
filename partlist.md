@@ -91,9 +91,10 @@ More power (medium amp and switching)
 
 __Schottky__
     
-    40V 1A 550mV @ 1A SMA(DO-214AC) Schottky Barrier Diodes (SBD) - C2480 (basic part, Drops ca. 0.55V forward.)
-    100V 2A 850mV @ 2A SMA(DO-214AC) Schottky Barrier Diodes (SBD) - C14996 (basic part. higher voltage rating, but 0.85 forward voltage drop)
-    40V 1A 600mV @ 1A Schottky Barrier Diode - C8598 (basic part, 0.6V forward volatge drop)
+    40V 1A 550mV @ 1A SMA(DO-214AC) Schottky Barrier Diodes (SBD) - *C2480* (basic part, Drops ca. 0.55V forward.)
+    100V 2A 850mV @ 2A SMA(DO-214AC) Schottky Barrier Diodes (SBD) - *C14996* (basic part. higher voltage rating, but 0.85 forward voltage drop)
+    40V 1A 600mV @ 1A Schottky Barrier Diode - *C8598* (basic part, 0.6V forward volatge drop)
+    0.5mA@40V 40V Single 1A 0.55V@1A SMA(DO-214AC)  Schottky Barrier Diodes (SBD) ROHS - *C2480* (basic part)
     
     
 __General Purpose__
