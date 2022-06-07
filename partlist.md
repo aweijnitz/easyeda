@@ -120,7 +120,15 @@ __LED__
 Not basic parts. I use them for the holes only.
 
     10k Through hole trimmer. BOURNS style. Three legs in a line. - C118954
-    10k 
+    
+    Song Huei vertical 9mm, R0904N ("tall trimmer")
+    https://www.exploding-shed.com/electronic-mechanical-parts/potentiometers/
+
+    ALPHA 9MM, VERTICAL T18 SHAFT 
+    https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-knurled-plastic-spline-shaft-pcb-9mm.html
+
+    Alps 6mm vertical
+    https://www.reichelt.de/index.html?ACTION=446&LA=2&nbc=1&q=rk09k113-lin10k
 
 ## Connector/Headers
 
